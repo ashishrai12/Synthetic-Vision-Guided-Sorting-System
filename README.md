@@ -51,6 +51,9 @@ Pick coordinates: (400, 200) @ 90°
 7. Draw overlays
 8. Print coordinates and save image
 
+<img width="752" height="838" alt="{E88E296C-3871-447F-B2B5-6E52FD3385ED}" src="https://github.com/user-attachments/assets/5f24e10f-4f15-4b39-bde1-5c953ce56d78" />
+
+
 ## Synthetic vs. Real World
 
 | Feature | Synthetic Testing | Real-World Deployment |
